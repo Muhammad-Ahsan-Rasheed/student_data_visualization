@@ -19,6 +19,3 @@ s = [sum(i) for i in elye]
 s = sorted(s, reverse=True)
 print(s)
 print(sum(s[:3]))
-
-# Solving puzzles with programming is fun! I'm a beginner in Python and I'm learning it by solving puzzles. I'm also learning how to use git and github. I'm a beginner in Python and I'm learning it by solving puzzles. I'm also learning how to use git and github.
-# 
